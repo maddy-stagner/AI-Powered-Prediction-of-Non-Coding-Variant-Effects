@@ -6,10 +6,6 @@ Python: Version 3.8 or higher recommended.
 Jupyter Notebook: For running the notebook locally, or use Google Colab.
 Dependencies: Listed in requirements.txt.
 
-Installation
-
-Clone the repository:git clone https://github.com/your-username/non_coding_variant_prediction.git
-cd non_coding_variant_prediction
 
 
 Set up a virtual environment (recommended):python -m venv venv
