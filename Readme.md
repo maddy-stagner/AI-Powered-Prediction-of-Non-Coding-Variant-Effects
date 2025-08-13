@@ -48,4 +48,4 @@ Notebook Rendering: View the notebook on GitHub or use nbviewer for a static ren
 
 
 Contact
-For questions, open an issue on this repository or contact [madavsankar08@gmail.com].
+For questions, open an issue on this repository or contact [madhavsankar08@gmail.com].
